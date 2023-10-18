@@ -38,8 +38,6 @@ A=20
 A=10
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
 Exp-13(Part-B)*/
 #include<iostream>
 using namespace std;
@@ -79,8 +77,6 @@ the area of room is: 230.4
 the area of room is: 307.04
 */
 
-/*Name-Purvansha Gehlod
-PRN-22070123088
 Exp-13(Part-C)*/
 #include<iostream>
 using namespace std;
